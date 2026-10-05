@@ -1,8 +1,7 @@
 # Noel Bond
 
-Software developer focused on backend and full-stack web applications, with experience building Ruby on Rails systems, API integrations, background processing, PostgreSQL-backed applications, and software that communicates with physical devices.
-
-My recent work has centered on Rails, Python, PostgreSQL, MQTT, Linux deployment, and reliability across asynchronous systems.
+I build backend and full-stack applications with Ruby on Rails, PostgreSQL, Python, and distributed/device-connected systems.  
+My recent work includes contracted development on Pollitify and Victory Garden, a Rails-centered greenhouse automation platform spanning web software, messaging, telemetry, and embedded hardware.
 
 ## Featured Work
 
